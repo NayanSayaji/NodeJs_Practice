@@ -6,3 +6,19 @@ before this javascript can run inside of browser only.
 such as chrome's V8 Engine. Edge's Chakra. Firefox Spidermonkey.
 
 
+when to use NodeJs
+I/O bound 
+Data streaming apps like facebook whatsapp 
+real time chat applications
+
+
+
+NodeJs just create a runtime environment which makes javascript runs locally.
+
+NodeJs is just JavaScript Running on server 
+
+REPL -
+
+REPL is very useful experimenting with nodejs codes and to debug JavaScript codes
+
+Read - Eval - Print - Loop
