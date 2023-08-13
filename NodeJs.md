@@ -22,3 +22,12 @@ REPL -
 REPL is very useful experimenting with nodejs codes and to debug JavaScript codes
 
 Read - Eval - Print - Loop
+
+REPL environment can be access using typing node command in any command promt
+
+1. JavaScript expressions 
+2. variables like we use in console tab of any browser
+3. Multiline Code / Loops 
+4. use (_) to get the last result 
+5. can use editor mode using .editor command where we can type like we are typing in terminal
+
