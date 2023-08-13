@@ -1,0 +1,8 @@
+NodeJs is a javascript runtime environment build on chromes V8 engine that is chromes javascript environment.
+
+NodeJs was written in cpp by embedding V8 engine inside it by ryan dahl (google engineer) in 2009.
+
+before this javascript can run inside of browser only.
+such as chrome's V8 Engine. Edge's Chakra. Firefox Spidermonkey.
+
+
