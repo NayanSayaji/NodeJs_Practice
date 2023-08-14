@@ -1,0 +1,5 @@
+To access web pages of any web application you need a web server.
+The web server will handle all the http requests for the web application.
+
+IIS is a web server for asp.net web applications and apache is a web server for PHP or Java web applications.
+
