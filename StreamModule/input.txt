@@ -1,0 +1,8 @@
+Hello guys.
+This is nayan sayaji
+in this file we are storing some 
+text for stream this later
+
+using stream module
+
+hey guys
